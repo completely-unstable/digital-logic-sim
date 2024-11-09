@@ -1,0 +1,23 @@
+t.js      text area tab support
+u.js      utility, Array.prototype extensions, SetArray, Stack
+v.js      Vector
+d.js      draw functions
+ip.js     getMetrics (component shape attributes)
+p.js      Pin, Pins
+g.js      Component and majority of its subclasses
+g2.js     non-digital components (many unused)
+a.js      Component attributes
+w.js      Wire, Wires, ConnectionGroup
+b.js      Subcircuit, Circuit, CircuitStack
+def.js    default attributes and values (currently unused)
+s.js      functions for running simulation
+l.js      saving/loading circuits, compressing/decompressing circuit data
+f.js      various example circuits
+dil.js    exstensive dil component library
+chips.js  alt dil chip implimentation via funtion tables (currently unused)
+m.js      context menu class
+fw2.js    new floating window class
+r.js      menu bar
+i.js      old floating window class
+ctx.js    CanvasRenderingContext2d.prototype mutations
+c.js      main starting point, rendering, mouse events
